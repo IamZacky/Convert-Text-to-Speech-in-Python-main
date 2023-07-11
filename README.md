@@ -19,7 +19,7 @@ Before running the application, ensure that you have the following dependencies 
 
 2. Install the required Python libraries by running the following command:
 
-pip install tkinter gtts pydub
+`pip install tkinter gtts pydub`
 
 
 ## Usage
@@ -28,7 +28,7 @@ pip install tkinter gtts pydub
 
 2. Run the following command to start the application:
 
-python text_to_speech.py
+`python text_to_speech.py`
 
 
 3. The TextToSpeech GUI window will appear.
