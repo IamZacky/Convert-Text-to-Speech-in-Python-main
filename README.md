@@ -21,8 +21,6 @@ Before running the application, ensure that you have the following dependencies 
 
 pip install tkinter gtts pydub
 
-bash
-Copy code
 
 ## Usage
 
@@ -32,8 +30,6 @@ Copy code
 
 python text_to_speech.py
 
-vbnet
-Copy code
 
 3. The TextToSpeech GUI window will appear.
 
