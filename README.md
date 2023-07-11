@@ -65,6 +65,6 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Contact
 
-For any questions or inquiries, please contact your-email@example.com.
+For any questions or inquiries, please contact imlachica09@gmail.com
 
 Feel free to customize the README file based on your needs, such as updating the contact information or providing additional information about the project.
